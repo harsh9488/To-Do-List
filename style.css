@@ -1,0 +1,105 @@
+#head{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+form{
+    margin-left: 600px;
+}
+
+input{
+    font-size: 30px;
+}
+span{
+    font-size: 25px;
+    color: red;
+}
+
+#fname{
+    width: 950px;
+    height: 50px;
+}
+
+#name{
+    margin: 15px 0px;
+}
+#project{
+    margin: 15px 0px;
+}
+
+.conatiner{
+    display: flex;
+}
+
+#femail{
+    width:450px ;
+    height: 50px;
+}
+
+#fphone{
+    width:450px ;
+    height: 50px;
+    margin-left: 40px;
+}
+#fon{
+    margin-left: 40px;
+}
+
+#fproject{
+    width: 950px;
+    height: 50px;
+}
+#ftask{
+    width: 950px;
+    height: 50px;
+}
+
+
+
+.box{
+    display: flex;
+}
+
+#fsdate{
+    width:450px ;
+    height: 50px;
+}
+
+#ftdate{
+    width:450px ;
+    height: 50px;
+    margin-left: 50px;
+}
+
+.sd{
+    font-size: 25px;
+}
+
+#endD{
+    margin-left: 51px;
+}
+
+#td{
+    margin-left: 51px;
+}
+
+#radio{
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+#submit{
+    margin-left:430px ;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#tasklist{
+    font-size: 35px;
+    margin-left: 650px;
+}
+
+table,th,td{
+    border: 1px solid black;
+}
